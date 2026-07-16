@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bmdsaif005/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bmdsaif005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/Bmdsaif005/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Bmdsaif005/LeetCode/tree/master/0217-contains-duplicate) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bmdsaif005/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Bmdsaif005/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Bmdsaif005/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
